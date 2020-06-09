@@ -25,7 +25,7 @@
   		</div>
   		<div class="fieldForm">
   			{!! Form::label('url','Url') !!}
-  			{!! Form::text('url', null ,['class' => '','placeholder' => 'Ruta de acceso a la aplicación. https://Froac.manizales.unal.edu.co/RAIM']) !!}
+  			{!! Form::text('url', null ,['class' => '','placeholder' => 'Ruta de acceso a la aplicación. https://gaia.manizales.unal.edu.c0/raim']) !!}
   		</div>
   		<div class="fieldForm">
   			{!! Form::label('type','Tipo') !!}

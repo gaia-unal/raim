@@ -48,7 +48,7 @@
                         <a href="http://medellin.unal.edu.co/" target="_blank">
                             <img width="182px" height="75px" src="{{ asset('docs/escudo_un_sede_medellin.png') }}" alt="Escudo Universidad Nacional de Colombia - Sede Medellín" title="Escudo Universidad Nacional de Colombia - Sede Medellín">
                         </a>
-                        <a href="http://froac.manizales.unal.edu.co/GAIA/" target="_blank">
+                        <a href="http://gaia.manizales.unal.edu.co/GAIA/" target="_blank">
                             <img width="138px" height="75px" src="{{ asset('docs/logo_gaia.jpg') }}" alt="Logo Grupo de Ambientes Inteligentes Adaptativos - GAIA" title="Logo Grupo de Ambientes Inteligentes Adaptativos - GAIA">
                         </a>
                     </div>

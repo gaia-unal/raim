@@ -104,7 +104,7 @@
                         type: "GET",
                         //data: "raim=" + searchString,
                         data: "raim_brazil=" + searchString,
-                        url: "http://froac.manizales.unal.edu.co/froacn",
+                        url: "http://gaia.manizales.unal.edu.co/froac",
                         dataType: "jsonp",
                         async: true,
                         success: function(datos){

@@ -13,7 +13,7 @@
             <h2><strong>Grupos de Investigación</strong></h2>
             <li>
                 <p>
-                    <a href="http://froac.manizales.unal.edu.co/GAIA" target="_blank">
+                    <a href="http://gaia.manizales.unal.edu.co/GAIA" target="_blank">
                         GAIA
                     </a>
                 </p>

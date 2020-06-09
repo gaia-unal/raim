@@ -100,7 +100,7 @@
               <li><a href="{{ asset('docs/3_memoria_evento.pdf') }}" id="markdown-toc-accordion-example" target="_blank">LACLO 2014 - Evaluación de Herramientas en Entorno Móvil para la Accesibilidad de Objetos de Aprendizaje para Usuarios con Discapacidad Visual</a></li>
               <li><a href="{{ asset('docs/4_memoria_evento.pdf') }}" id="markdown-toc-accessibility" target="_blank">LACLO 2014 - Análisis de Características del Perfil de Usuario para un Sistema de Recomendación de Objetos de Aprendizaje</a></li>
               <li><a href="{{ asset('docs/11_memoria_evento.pdf') }}" target="_blank">LACLO 2014 - Sistema Multi-Agente para Recomendación de Recursos Educativos utilizando Servicios de Awareness y Dispositivos Móviles</a>
-              <li><a href="{{ asset('docs/5_memoria_evento.pdf') }}" id="markdown-toc-usage" target="_blank">CIIISI 2014 - Personalización de cursos virtuales orientados a formación basada en competencias basada en perfil dinámico del estudiante</a>
+              <li><a href="{{ asset('') }}" id="markdown-toc-usage" target="_blank">CIIISI 2014 - Personalización de cursos virtuales orientados a formación basada en competencias basada en perfil dinámico del estudiante</a>
               <li><a href="{{ asset('docs/20_congreso_2015.pdf') }}" id="markdown-toc-usage" target="_blank">Interacción 2014 - Interfaces Adaptativas Personalizadas para brindar Recomendaciones en Repositorios de Objetos de Aprendizaje</a></li>
             </ul>
         </div>
